@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Костемёт</string>
+    <string name="roll">Метнуть кость!</string>
+    <string name="clear_button">Очистить результат!</string>
+</resources>

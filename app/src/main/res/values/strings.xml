@@ -2,4 +2,5 @@
     <string name="app_name">Dice Roller</string>
     <string name="roll">Roll the dice!</string>
     <string name="clear_button">Clear!</string>
+    <string name="landscape_roll" translatable="false">Landscape roll!</string>
 </resources>
